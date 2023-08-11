@@ -1,8 +1,2 @@
 /*  your css code here. If applicable */
-function updateELe(id){
-	return function(content){
-		document.querySelector("#" + id).textContent = content;
-	}
-}
-const text = update("status");
-text("Entered Metaverse");
+
